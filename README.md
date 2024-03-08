@@ -15,7 +15,7 @@ This repository is for a term project for 270721 Optimization at Chiang Mai Univ
 9.   **Path plot.iypnb** Jupyter notebook for plotting optimal traveling path for one of the solutions provided from the GA for shortest path.iypnb
 10.   **output** This is where most of the solutions and plots are stored.
 
-# Current work flow for usage
+# Current workflow for usage
 This reprository is just a proof of concept work; thus, we apologize if the platform is hard to implement and follow. Nevertheless, here is how to use or code either on the provided dataset or your own.
 
 If use other datasets:
